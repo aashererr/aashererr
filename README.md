@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashererr
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Data Structures
+- 🌱 I’m currently learning ... Data Structures & Algorithms
 - 📫 How to reach me ... aashererr@gmail.com
 - ⚡ Fun fact: ... I am an airforce brat
 
