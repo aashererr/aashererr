@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... Data Structures
 - 📫 How to reach me ... aashererr@gmail.com
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am an airforce brat
 
 <!---
