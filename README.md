@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashererr
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Data Structures & Algorithms, Python
-- 📫 How to reach me ... aashererr@gmail.com
+- 👀 I’m interested in software engineering and cybersecurity
+- 🫵 I’m currently learning Data Structures & Algorithms and Python
+- 📫 How to reach me - aashererr@gmail.com
 - ⚡ Fun fact: ... I am an airforce brat
 
 ## Languages and Tools:
